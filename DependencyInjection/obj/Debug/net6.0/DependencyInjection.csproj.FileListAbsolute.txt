@@ -1,0 +1,15 @@
+C:\Users\Edward\Documents\Repositories\DependencyInjection\bin\Debug\net6.0\DependencyInjection.exe
+C:\Users\Edward\Documents\Repositories\DependencyInjection\bin\Debug\net6.0\DependencyInjection.deps.json
+C:\Users\Edward\Documents\Repositories\DependencyInjection\bin\Debug\net6.0\DependencyInjection.runtimeconfig.json
+C:\Users\Edward\Documents\Repositories\DependencyInjection\bin\Debug\net6.0\DependencyInjection.dll
+C:\Users\Edward\Documents\Repositories\DependencyInjection\bin\Debug\net6.0\DependencyInjection.pdb
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.dll
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\refint\DependencyInjection.dll
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.pdb
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\DependencyInjection.genruntimeconfig.cache
+C:\Users\Edward\Documents\Repositories\DependencyInjection\obj\Debug\net6.0\ref\DependencyInjection.dll
